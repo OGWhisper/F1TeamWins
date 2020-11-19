@@ -1,0 +1,5162 @@
+[
+    {
+        "Date": "2020-07-04",
+        "Driver": "Valtteri Bottas",
+        "Team": "Mercedes-AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2020-07-12",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes-AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2020-07-19",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes-AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2020-08-02",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes-AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2020-08-09",
+        "Driver": "Max Verstappen",
+        "Team": "Aston Martin Red Bull Racing"
+    },
+    {
+        "Date": "2020-08-16",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes-AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2020-08-30",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes-AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2020-09-06",
+        "Driver": "Pierre Gasly",
+        "Team": "Scuderia AlphaTauri Honda"
+    },
+    {
+        "Date": "2020-09-13",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes-AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2020-09-27",
+        "Driver": "Valtteri Bottas",
+        "Team": "Mercedes-AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2020-10-11",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes-AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2020-10-25",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes-AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2020-11-01",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes-AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2020-11-15",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes-AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2019-03-17",
+        "Driver": "Valtteri Bottas",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2019-03-31",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2019-04-14",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2019-04-28",
+        "Driver": "Valtteri Bottas",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2019-05-12",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2019-05-26",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2019-06-09",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2019-06-23",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2019-06-30",
+        "Driver": "Max Verstappen",
+        "Team": "Aston Martin Red Bull Racing"
+    },
+    {
+        "Date": "2019-07-14",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2019-07-28",
+        "Driver": "Max Verstappen",
+        "Team": "Aston Martin Red Bull Racing"
+    },
+    {
+        "Date": "2019-08-04",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2019-09-01",
+        "Driver": "Charles Leclerc",
+        "Team": "Scuderia Ferrari Mission Winnow"
+    },
+    {
+        "Date": "2019-09-08",
+        "Driver": "Charles Leclerc",
+        "Team": "Scuderia Ferrari Mission Winnow"
+    },
+    {
+        "Date": "2019-09-22",
+        "Driver": "Sebastian Vettel",
+        "Team": "Scuderia Ferrari Mission Winnow"
+    },
+    {
+        "Date": "2019-09-29",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2019-10-13",
+        "Driver": "Valtteri Bottas",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2019-10-27",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2019-11-03",
+        "Driver": "Valtteri Bottas",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2019-11-17",
+        "Driver": "Max Verstappen",
+        "Team": "Aston Martin Red Bull Racing"
+    },
+    {
+        "Date": "2019-12-01",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2018-03-25",
+        "Driver": "Sebastian Vettel",
+        "Team": "Scuderia Ferrari"
+    },
+    {
+        "Date": "2018-04-08",
+        "Driver": "Sebastian Vettel",
+        "Team": "Scuderia Ferrari"
+    },
+    {
+        "Date": "2018-04-15",
+        "Driver": "Daniel Ricciardo",
+        "Team": "Aston Martin Red Bull Racing"
+    },
+    {
+        "Date": "2018-04-29",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2018-05-13",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2018-05-27",
+        "Driver": "Daniel Ricciardo",
+        "Team": "Aston Martin Red Bull Racing"
+    },
+    {
+        "Date": "2018-06-10",
+        "Driver": "Sebastian Vettel",
+        "Team": "Scuderia Ferrari"
+    },
+    {
+        "Date": "2018-06-24",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2018-07-01",
+        "Driver": "Max Verstappen",
+        "Team": "Aston Martin Red Bull Racing"
+    },
+    {
+        "Date": "2018-07-08",
+        "Driver": "Sebastian Vettel",
+        "Team": "Scuderia Ferrari"
+    },
+    {
+        "Date": "2018-07-22",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2018-07-29",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2018-08-26",
+        "Driver": "Sebastian Vettel",
+        "Team": "Scuderia Ferrari"
+    },
+    {
+        "Date": "2018-09-02",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2018-09-16",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2018-09-30",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2018-10-07",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2018-10-21",
+        "Driver": "Kimi Raikkonen",
+        "Team": "Scuderia Ferrari"
+    },
+    {
+        "Date": "2018-10-28",
+        "Driver": "Max Verstappen",
+        "Team": "Aston Martin Red Bull Racing"
+    },
+    {
+        "Date": "2018-11-11",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2018-11-25",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas Motorsport"
+    },
+    {
+        "Date": "2017-03-26",
+        "Driver": "Sebastian Vettel",
+        "Team": "Scuderia Ferrari"
+    },
+    {
+        "Date": "2017-04-09",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2017-04-16",
+        "Driver": "Sebastian Vettel",
+        "Team": "Scuderia Ferrari"
+    },
+    {
+        "Date": "2017-04-30",
+        "Driver": "Valtteri Bottas",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2017-05-14",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2017-05-28",
+        "Driver": "Sebastian Vettel",
+        "Team": "Scuderia Ferrari"
+    },
+    {
+        "Date": "2017-06-11",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2017-06-25",
+        "Driver": "Daniel Ricciardo",
+        "Team": "Red Bull Racing"
+    },
+    {
+        "Date": "2017-07-09",
+        "Driver": "Valtteri Bottas",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2017-07-16",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2017-07-30",
+        "Driver": "Sebastian Vettel",
+        "Team": "Scuderia Ferrari"
+    },
+    {
+        "Date": "2017-08-27",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2017-09-03",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2017-09-17",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2017-10-01",
+        "Driver": "Max Verstappen",
+        "Team": "Red Bull Racing"
+    },
+    {
+        "Date": "2017-10-08",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2017-10-22",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2017-10-29",
+        "Driver": "Max Verstappen",
+        "Team": "Red Bull Racing"
+    },
+    {
+        "Date": "2017-11-12",
+        "Driver": "Sebastian Vettel",
+        "Team": "Scuderia Ferrari"
+    },
+    {
+        "Date": "2017-11-26",
+        "Driver": "Valtteri Bottas",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-03-20",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-04-03",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-04-17",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-05-01",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-05-15",
+        "Driver": "Max Verstappen",
+        "Team": "Red Bull Racing"
+    },
+    {
+        "Date": "2016-05-29",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-06-12",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-06-19",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-07-03",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-07-10",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-07-24",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-07-31",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-08-28",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-09-04",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-09-18",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-10-02",
+        "Driver": "Daniel Ricciardo",
+        "Team": "Red Bull Racing"
+    },
+    {
+        "Date": "2016-10-09",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-10-23",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-10-30",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-11-13",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2016-11-27",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2015-03-15",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2015-03-29",
+        "Driver": "Sebastian Vettel",
+        "Team": "Scuderia Ferrari"
+    },
+    {
+        "Date": "2015-04-12",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2015-04-19",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2015-05-10",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2015-05-24",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2015-06-07",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2015-06-21",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2015-07-05",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2015-07-26",
+        "Driver": "Sebastian Vettel",
+        "Team": "Scuderia Ferrari"
+    },
+    {
+        "Date": "2015-08-23",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2015-09-06",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2015-09-20",
+        "Driver": "Sebastian Vettel",
+        "Team": "Scuderia Ferrari"
+    },
+    {
+        "Date": "2015-09-27",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2015-10-11",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2015-10-25",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2015-11-01",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2015-11-15",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2015-11-29",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes AMG Petronas F1 Team"
+    },
+    {
+        "Date": "2014-03-16",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2014-03-30",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2014-04-06",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2014-04-20",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2014-05-11",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2014-05-25",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2014-06-08",
+        "Driver": "Daniel Ricciardo",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2014-06-22",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2014-07-06",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2014-07-20",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2014-07-27",
+        "Driver": "Daniel Ricciardo",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2014-08-24",
+        "Driver": "Daniel Ricciardo",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2014-09-07",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2014-09-21",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2014-10-05",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2014-10-12",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2014-11-02",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2014-11-09",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2014-11-23",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2013-03-17",
+        "Driver": "Kimi Räikkönen",
+        "Team": "Lotus-Renault"
+    },
+    {
+        "Date": "2013-03-24",
+        "Driver": "Sebastian Vettel",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2013-04-14",
+        "Driver": "Fernando Alonso",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2013-04-21",
+        "Driver": "Sebastian Vettel",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2013-05-12",
+        "Driver": "Fernando Alonso",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2013-05-26",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2013-06-09",
+        "Driver": "Sebastian Vettel",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2013-06-30",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2013-07-07",
+        "Driver": "Sebastian Vettel",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2013-07-28",
+        "Driver": "Lewis Hamilton",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2013-08-25",
+        "Driver": "Sebastian Vettel",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2013-09-08",
+        "Driver": "Sebastian Vettel",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2013-09-22",
+        "Driver": "Sebastian Vettel",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2013-10-06",
+        "Driver": "Sebastian Vettel",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2013-10-13",
+        "Driver": "Sebastian Vettel",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2013-10-27",
+        "Driver": "Sebastian Vettel",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2013-11-03",
+        "Driver": "Sebastian Vettel",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2013-11-17",
+        "Driver": "Sebastian Vettel",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2013-11-24",
+        "Driver": "Sebastian Vettel",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2012-03-18",
+        "Driver": "Jenson Button",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2012-03-25",
+        "Driver": "Fernando Alonso",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2012-04-15",
+        "Driver": "Nico Rosberg",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "2012-04-22",
+        "Driver": "Sebastian Vettel",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2012-05-13",
+        "Driver": "Pastor Maldonado",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "2012-05-27",
+        "Driver": "Mark Webber",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2012-06-10",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2012-06-24",
+        "Driver": "Fernando Alonso",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2012-07-08",
+        "Driver": "Mark Webber",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2012-07-29",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2012-07-22",
+        "Driver": "Fernando Alonso",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2012-09-02",
+        "Driver": "Jenson Button",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2012-09-09",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2012-09-23",
+        "Driver": "Sebastian Vettel",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2012-10-07",
+        "Driver": "Sebastian Vettel",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2012-10-14",
+        "Driver": "Sebastian Vettel",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2012-10-28",
+        "Driver": "Sebastian Vettel",
+        "Team": "Red Bull Racing-Renault"
+    },
+    {
+        "Date": "2012-11-04",
+        "Driver": "Kimi Räikkönen",
+        "Team": "Lotus-Renault"
+    },
+    {
+        "Date": "2012-11-18",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2012-11-25",
+        "Driver": "Jenson Button",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2011-03-27",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2011-04-10",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2011-04-17",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2011-05-08",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2011-05-22",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2011-05-29",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2011-06-12",
+        "Driver": "Jenson Button",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2011-06-26",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2011-07-10",
+        "Driver": "Fernando Alonso",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2011-07-24",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2011-07-31",
+        "Driver": "Jenson Button",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2011-08-28",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2011-09-11",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2011-09-25",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2011-10-09",
+        "Driver": "Jenson Button",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2011-10-16",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2011-10-30",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2011-11-13",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2011-11-27",
+        "Driver": "Mark Webber",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2010-03-14",
+        "Driver": "Fernando Alonso",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2010-03-28",
+        "Driver": "Jenson Button",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2010-04-04",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2010-04-18",
+        "Driver": "Jenson Button",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2010-05-09",
+        "Driver": "Mark Webber",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2010-05-16",
+        "Driver": "Mark Webber",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2010-05-30",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2010-06-13",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2010-06-27",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2010-07-11",
+        "Driver": "Mark Webber",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2010-07-25",
+        "Driver": "Fernando Alonso",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2010-08-01",
+        "Driver": "Mark Webber",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2010-08-29",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2010-09-12",
+        "Driver": "Fernando Alonso",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2010-09-26",
+        "Driver": "Fernando Alonso",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2010-10-10",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2010-10-24",
+        "Driver": "Fernando Alonso",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2010-11-07",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2010-11-14",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2009-03-29",
+        "Driver": "Jenson Button",
+        "Team": "Brawn-Mercedes"
+    },
+    {
+        "Date": "2009-04-05",
+        "Driver": "Jenson Button",
+        "Team": "Brawn-Mercedes"
+    },
+    {
+        "Date": "2009-04-26",
+        "Driver": "Jenson Button",
+        "Team": "Brawn-Mercedes"
+    },
+    {
+        "Date": "2009-05-10",
+        "Driver": "Jenson Button",
+        "Team": "Brawn-Mercedes"
+    },
+    {
+        "Date": "2009-06-07",
+        "Driver": "Jenson Button",
+        "Team": "Brawn-Mercedes"
+    },
+    {
+        "Date": "2009-05-24",
+        "Driver": "Jenson Button",
+        "Team": "Brawn-Mercedes"
+    },
+    {
+        "Date": "2009-06-21",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2009-07-12",
+        "Driver": "Mark Webber",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2009-07-26",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2009-08-23",
+        "Driver": "Rubens Barrichello",
+        "Team": "Brawn-Mercedes"
+    },
+    {
+        "Date": "2009-08-30",
+        "Driver": "Kimi Räikkönen",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2009-09-13",
+        "Driver": "Rubens Barrichello",
+        "Team": "Brawn-Mercedes"
+    },
+    {
+        "Date": "2009-09-27",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2009-10-04",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2009-04-19",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2009-10-18",
+        "Driver": "Mark Webber",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2009-11-01",
+        "Driver": "Sebastian Vettel",
+        "Team": "RBR-Renault"
+    },
+    {
+        "Date": "2008-03-16",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2008-03-23",
+        "Driver": "Kimi Räikkönen",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2008-04-06",
+        "Driver": "Felipe Massa",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2008-04-27",
+        "Driver": "Kimi Räikkönen",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2008-05-11",
+        "Driver": "Felipe Massa",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2008-05-25",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2008-06-08",
+        "Driver": "Robert Kubica",
+        "Team": "BMW Sauber"
+    },
+    {
+        "Date": "2008-06-22",
+        "Driver": "Felipe Massa",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2008-07-06",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2008-07-20",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2008-08-03",
+        "Driver": "Heikki Kovalainen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2008-08-24",
+        "Driver": "Felipe Massa",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2008-09-07",
+        "Driver": "Felipe Massa",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2008-09-14",
+        "Driver": "Sebastian Vettel",
+        "Team": "STR-Ferrari"
+    },
+    {
+        "Date": "2008-09-28",
+        "Driver": "Fernando Alonso",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2008-10-12",
+        "Driver": "Fernando Alonso",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2008-10-19",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2008-11-02",
+        "Driver": "Felipe Massa",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2007-03-18",
+        "Driver": "Kimi Räikkönen",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2007-04-08",
+        "Driver": "Fernando Alonso",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2007-04-15",
+        "Driver": "Felipe Massa",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2007-05-13",
+        "Driver": "Felipe Massa",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2007-05-27",
+        "Driver": "Fernando Alonso",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2007-06-10",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2007-06-17",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2007-07-01",
+        "Driver": "Kimi Räikkönen",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2007-07-08",
+        "Driver": "Kimi Räikkönen",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2007-07-22",
+        "Driver": "Fernando Alonso",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2007-08-05",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2007-08-26",
+        "Driver": "Felipe Massa",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2007-09-09",
+        "Driver": "Fernando Alonso",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2007-09-16",
+        "Driver": "Kimi Räikkönen",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2007-09-30",
+        "Driver": "Lewis Hamilton",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2007-10-07",
+        "Driver": "Kimi Räikkönen",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2007-10-21",
+        "Driver": "Kimi Räikkönen",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2006-03-12",
+        "Driver": "Fernando Alonso",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2006-03-19",
+        "Driver": "Giancarlo Fisichella",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2006-04-02",
+        "Driver": "Fernando Alonso",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2006-04-23",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2006-05-07",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2006-05-14",
+        "Driver": "Fernando Alonso",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2006-05-28",
+        "Driver": "Fernando Alonso",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2006-06-11",
+        "Driver": "Fernando Alonso",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2006-06-25",
+        "Driver": "Fernando Alonso",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2006-07-02",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2006-07-16",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2006-07-30",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2006-08-06",
+        "Driver": "Jenson Button",
+        "Team": "Honda"
+    },
+    {
+        "Date": "2006-08-27",
+        "Driver": "Felipe Massa",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2006-09-10",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2006-10-01",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2006-10-08",
+        "Driver": "Fernando Alonso",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2006-10-22",
+        "Driver": "Felipe Massa",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2005-03-06",
+        "Driver": "Giancarlo Fisichella",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2005-03-20",
+        "Driver": "Fernando Alonso",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2005-04-03",
+        "Driver": "Fernando Alonso",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2005-04-24",
+        "Driver": "Fernando Alonso",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2005-05-08",
+        "Driver": "Kimi Räikkönen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2005-05-22",
+        "Driver": "Kimi Räikkönen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2005-05-29",
+        "Driver": "Fernando Alonso",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2005-06-12",
+        "Driver": "Kimi Räikkönen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2005-06-19",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2005-07-03",
+        "Driver": "Fernando Alonso",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2005-07-10",
+        "Driver": "Juan Pablo Montoya",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2005-07-24",
+        "Driver": "Fernando Alonso",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2005-07-31",
+        "Driver": "Kimi Räikkönen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2005-08-21",
+        "Driver": "Kimi Räikkönen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2005-09-04",
+        "Driver": "Juan Pablo Montoya",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2005-09-11",
+        "Driver": "Kimi Räikkönen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2005-09-25",
+        "Driver": "Juan Pablo Montoya",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2005-10-09",
+        "Driver": "Kimi Räikkönen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2005-10-16",
+        "Driver": "Fernando Alonso",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2004-03-07",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2004-03-21",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2004-04-04",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2004-04-25",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2004-05-09",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2004-05-23",
+        "Driver": "Jarno Trulli",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2004-05-30",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2004-06-13",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2004-06-20",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2004-07-04",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2004-07-11",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2004-07-25",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2004-08-15",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2004-08-29",
+        "Driver": "Kimi Räikkönen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2004-09-12",
+        "Driver": "Rubens Barrichello",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2004-09-26",
+        "Driver": "Rubens Barrichello",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2004-10-10",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2004-10-24",
+        "Driver": "Juan Pablo Montoya",
+        "Team": "Williams-BMW"
+    },
+    {
+        "Date": "2003-03-09",
+        "Driver": "David Coulthard",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2003-03-23",
+        "Driver": "Kimi Räikkönen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2003-04-06",
+        "Driver": "Giancarlo Fisichella",
+        "Team": "Jordan-Ford"
+    },
+    {
+        "Date": "2003-04-20",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2003-05-04",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2003-05-18",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2003-06-01",
+        "Driver": "Juan Pablo Montoya",
+        "Team": "Williams-BMW"
+    },
+    {
+        "Date": "2003-06-15",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2003-06-29",
+        "Driver": "Ralf Schumacher",
+        "Team": "Williams-BMW"
+    },
+    {
+        "Date": "2003-07-06",
+        "Driver": "Ralf Schumacher",
+        "Team": "Williams-BMW"
+    },
+    {
+        "Date": "2003-07-20",
+        "Driver": "Rubens Barrichello",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2003-08-03",
+        "Driver": "Juan Pablo Montoya",
+        "Team": "Williams-BMW"
+    },
+    {
+        "Date": "2003-08-24",
+        "Driver": "Fernando Alonso",
+        "Team": "Renault"
+    },
+    {
+        "Date": "2003-09-14",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2003-09-28",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2003-10-12",
+        "Driver": "Rubens Barrichello",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2002-03-03",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2002-03-17",
+        "Driver": "Ralf Schumacher",
+        "Team": "Williams-BMW"
+    },
+    {
+        "Date": "2002-03-31",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2002-04-14",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2002-04-28",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2002-05-12",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2002-06-09",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2002-06-23",
+        "Driver": "Rubens Barrichello",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2002-05-26",
+        "Driver": "David Coulthard",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2002-07-21",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2002-07-28",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2002-08-18",
+        "Driver": "Rubens Barrichello",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2002-09-01",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2002-09-15",
+        "Driver": "Rubens Barrichello",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2002-09-29",
+        "Driver": "Rubens Barrichello",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2002-10-13",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2002-07-07",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2001-03-04",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2001-03-18",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2001-04-01",
+        "Driver": "David Coulthard",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2001-04-15",
+        "Driver": "Ralf Schumacher",
+        "Team": "Williams-BMW"
+    },
+    {
+        "Date": "2001-04-29",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2001-05-13",
+        "Driver": "David Coulthard",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2001-05-27",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2001-06-10",
+        "Driver": "Ralf Schumacher",
+        "Team": "Williams-BMW"
+    },
+    {
+        "Date": "2001-06-24",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2001-07-01",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2001-07-15",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2001-07-29",
+        "Driver": "Ralf Schumacher",
+        "Team": "Williams-BMW"
+    },
+    {
+        "Date": "2001-08-19",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2001-09-02",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2001-09-16",
+        "Driver": "Juan Pablo Montoya",
+        "Team": "Williams-BMW"
+    },
+    {
+        "Date": "2001-09-30",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2001-10-14",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2000-03-12",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2000-03-26",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2000-04-09",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2000-04-23",
+        "Driver": "David Coulthard",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2000-05-07",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2000-05-21",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2000-06-04",
+        "Driver": "David Coulthard",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2000-06-18",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2000-07-02",
+        "Driver": "David Coulthard",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2000-07-16",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2000-07-30",
+        "Driver": "Rubens Barrichello",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2000-08-13",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2000-08-27",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "2000-09-10",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2000-09-24",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2000-10-08",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "2000-10-22",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1999-03-07",
+        "Driver": "Eddie Irvine",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1999-04-11",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1999-05-02",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1999-05-16",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1999-06-13",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1999-06-27",
+        "Driver": "Heinz-Harald Frentzen",
+        "Team": "Jordan-Mugen-Honda"
+    },
+    {
+        "Date": "1999-07-11",
+        "Driver": "David Coulthard",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1999-07-25",
+        "Driver": "Eddie Irvine",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1999-08-01",
+        "Driver": "Eddie Irvine",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1999-08-15",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1999-08-29",
+        "Driver": "David Coulthard",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1999-09-12",
+        "Driver": "Heinz-Harald Frentzen",
+        "Team": "Jordan-Mugen-Honda"
+    },
+    {
+        "Date": "1999-10-17",
+        "Driver": "Eddie Irvine",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1999-10-31",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1999-05-30",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1999-09-26",
+        "Driver": "Johnny Herbert",
+        "Team": "Stewart-Ford"
+    },
+    {
+        "Date": "1998-03-08",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1998-03-29",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1998-04-12",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1998-04-26",
+        "Driver": "David Coulthard",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1998-05-10",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1998-05-24",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1998-06-07",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1998-06-28",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1998-07-12",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1998-07-26",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1998-08-02",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1998-08-16",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1998-08-30",
+        "Driver": "Damon Hill",
+        "Team": "Jordan-Mugen-Honda"
+    },
+    {
+        "Date": "1998-09-13",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1998-09-27",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1998-11-01",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1997-03-09",
+        "Driver": "David Coulthard",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1997-03-30",
+        "Driver": "Jacques Villeneuve",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1997-04-13",
+        "Driver": "Jacques Villeneuve",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1997-04-27",
+        "Driver": "Heinz-Harald Frentzen",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1997-05-11",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1997-05-25",
+        "Driver": "Jacques Villeneuve",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1997-06-15",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1997-06-29",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1997-07-13",
+        "Driver": "Jacques Villeneuve",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1997-07-27",
+        "Driver": "Gerhard Berger",
+        "Team": "Benetton-Renault"
+    },
+    {
+        "Date": "1997-08-10",
+        "Driver": "Jacques Villeneuve",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1997-08-24",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1997-09-07",
+        "Driver": "David Coulthard",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1997-09-21",
+        "Driver": "Jacques Villeneuve",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1997-09-28",
+        "Driver": "Jacques Villeneuve",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1997-10-12",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1997-10-26",
+        "Driver": "Mika Hakkinen",
+        "Team": "McLaren-Mercedes"
+    },
+    {
+        "Date": "1996-03-10",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1996-03-31",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1996-04-07",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1996-04-28",
+        "Driver": "Jacques Villeneuve",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1996-05-05",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1996-05-19",
+        "Driver": "Olivier Panis",
+        "Team": "Ligier-Mugen-Honda"
+    },
+    {
+        "Date": "1996-06-02",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1996-06-16",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1996-06-30",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1996-07-14",
+        "Driver": "Jacques Villeneuve",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1996-07-28",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1996-08-11",
+        "Driver": "Jacques Villeneuve",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1996-08-25",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1996-09-08",
+        "Driver": "Michael Schumacher",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1996-09-22",
+        "Driver": "Jacques Villeneuve",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1996-10-13",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1995-03-26",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Renault"
+    },
+    {
+        "Date": "1995-04-09",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1995-04-30",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1995-05-14",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Renault"
+    },
+    {
+        "Date": "1995-05-28",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Renault"
+    },
+    {
+        "Date": "1995-06-11",
+        "Driver": "Jean Alesi",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1995-07-02",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Renault"
+    },
+    {
+        "Date": "1995-07-16",
+        "Driver": "Johnny Herbert",
+        "Team": "Benetton-Renault"
+    },
+    {
+        "Date": "1995-07-30",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Renault"
+    },
+    {
+        "Date": "1995-08-27",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Renault"
+    },
+    {
+        "Date": "1995-09-10",
+        "Driver": "Johnny Herbert",
+        "Team": "Benetton-Renault"
+    },
+    {
+        "Date": "1995-10-01",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Renault"
+    },
+    {
+        "Date": "1995-10-22",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Renault"
+    },
+    {
+        "Date": "1995-10-29",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Renault"
+    },
+    {
+        "Date": "1995-11-12",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1995-09-24",
+        "Driver": "David Coulthard",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1995-08-13",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1994-03-27",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Ford"
+    },
+    {
+        "Date": "1994-04-17",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Ford"
+    },
+    {
+        "Date": "1994-05-01",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Ford"
+    },
+    {
+        "Date": "1994-05-15",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Ford"
+    },
+    {
+        "Date": "1994-05-29",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1994-06-12",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Ford"
+    },
+    {
+        "Date": "1994-07-03",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Ford"
+    },
+    {
+        "Date": "1994-07-10",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1994-07-31",
+        "Driver": "Gerhard Berger",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1994-08-14",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Ford"
+    },
+    {
+        "Date": "1994-08-28",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1994-09-11",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1994-09-25",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1994-10-16",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Ford"
+    },
+    {
+        "Date": "1994-11-06",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1994-11-13",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1993-03-14",
+        "Driver": "Alain Prost",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1993-03-28",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1993-04-11",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1993-04-25",
+        "Driver": "Alain Prost",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1993-05-09",
+        "Driver": "Alain Prost",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1993-05-23",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1993-06-13",
+        "Driver": "Alain Prost",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1993-07-04",
+        "Driver": "Alain Prost",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1993-07-11",
+        "Driver": "Alain Prost",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1993-07-25",
+        "Driver": "Alain Prost",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1993-08-15",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1993-08-29",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1993-09-12",
+        "Driver": "Damon Hill",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1993-09-26",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Ford"
+    },
+    {
+        "Date": "1993-10-24",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1993-11-07",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1992-03-01",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1992-03-22",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1992-05-03",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1992-04-05",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1992-05-17",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1992-05-31",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1992-06-14",
+        "Driver": "Gerhard Berger",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1992-07-05",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1992-07-12",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1992-07-26",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1992-08-16",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1992-08-30",
+        "Driver": "Michael Schumacher",
+        "Team": "Benetton-Ford"
+    },
+    {
+        "Date": "1992-09-13",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1992-09-27",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1992-10-25",
+        "Driver": "Riccardo Patrese",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1992-11-08",
+        "Driver": "Gerhard Berger",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1991-03-10",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1991-03-24",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1991-04-28",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1991-06-24",
+        "Driver": "Riccardo Patrese",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1991-07-07",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1991-05-12",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1991-06-02",
+        "Driver": "Nelson Piquet",
+        "Team": "Benetton-Ford"
+    },
+    {
+        "Date": "1991-07-14",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1991-07-28",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1991-08-11",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1991-08-25",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1991-09-08",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1991-10-22",
+        "Driver": "Riccardo Patrese",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1991-09-29",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1991-10-20",
+        "Driver": "Gerhard Berger",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1991-11-03",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1990-03-11",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1990-03-25",
+        "Driver": "Alain Prost",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1990-05-13",
+        "Driver": "Riccardo Patrese",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1990-05-27",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1990-06-10",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1990-06-24",
+        "Driver": "Alain Prost",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1990-07-08",
+        "Driver": "Alain Prost",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1990-07-15",
+        "Driver": "Alain Prost",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1990-07-29",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1990-08-12",
+        "Driver": "Thierry Boutsen",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1990-08-26",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1990-09-09",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1990-09-23",
+        "Driver": "Nigel Mansell",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1990-09-30",
+        "Driver": "Alain Prost",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1990-10-21",
+        "Driver": "Nelson Piquet",
+        "Team": "Benetton-Ford"
+    },
+    {
+        "Date": "1990-11-04",
+        "Driver": "Nelson Piquet",
+        "Team": "Benetton-Ford"
+    },
+    {
+        "Date": "1989-03-26",
+        "Driver": "Nigel Mansell",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1989-04-23",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1989-05-07",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1989-05-28",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1989-06-04",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1989-06-18",
+        "Driver": "Thierry Boutsen",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1989-07-09",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1989-07-16",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1989-07-30",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1989-08-13",
+        "Driver": "Nigel Mansell",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1989-08-27",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1989-09-10",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1989-09-24",
+        "Driver": "Gerhard Berger",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1989-10-01",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1989-10-22",
+        "Driver": "Alessandro Nannini",
+        "Team": "Benetton-Ford"
+    },
+    {
+        "Date": "1989-11-05",
+        "Driver": "Thierry Boutsen",
+        "Team": "Williams-Renault"
+    },
+    {
+        "Date": "1988-04-03",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1988-05-01",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1988-05-15",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1988-05-29",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1988-06-12",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1988-06-19",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1988-07-03",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1988-07-10",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1988-07-24",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1988-08-07",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1988-08-28",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1988-09-11",
+        "Driver": "Gerhard Berger",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1988-09-25",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1988-10-02",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1988-10-30",
+        "Driver": "Ayrton Senna",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1988-11-13",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-Honda"
+    },
+    {
+        "Date": "1987-04-12",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1987-05-03",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1987-05-17",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1987-05-31",
+        "Driver": "Ayrton Senna",
+        "Team": "Lotus-Honda"
+    },
+    {
+        "Date": "1987-06-21",
+        "Driver": "Ayrton Senna",
+        "Team": "Lotus-Honda"
+    },
+    {
+        "Date": "1987-07-05",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1987-07-12",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1987-07-26",
+        "Driver": "Nelson Piquet",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1987-08-09",
+        "Driver": "Nelson Piquet",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1987-08-16",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1987-09-06",
+        "Driver": "Nelson Piquet",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1987-09-20",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1987-09-27",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1987-10-18",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1987-11-01",
+        "Driver": "Gerhard Berger",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1987-11-15",
+        "Driver": "Gerhard Berger",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1986-03-23",
+        "Driver": "Nelson Piquet",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1986-04-13",
+        "Driver": "Ayrton Senna",
+        "Team": "Lotus-Renault"
+    },
+    {
+        "Date": "1986-04-27",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1986-05-11",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1986-05-25",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1986-06-15",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1986-06-22",
+        "Driver": "Ayrton Senna",
+        "Team": "Lotus-Renault"
+    },
+    {
+        "Date": "1986-07-06",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1986-07-13",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1986-07-27",
+        "Driver": "Nelson Piquet",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1986-08-10",
+        "Driver": "Nelson Piquet",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1986-08-17",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1986-09-07",
+        "Driver": "Nelson Piquet",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1986-09-21",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1986-10-12",
+        "Driver": "Gerhard Berger",
+        "Team": "Benetton-BMW"
+    },
+    {
+        "Date": "1986-10-26",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1985-04-07",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1985-04-21",
+        "Driver": "Ayrton Senna",
+        "Team": "Lotus-Renault"
+    },
+    {
+        "Date": "1985-05-05",
+        "Driver": "Elio de Angelis",
+        "Team": "Lotus-Renault"
+    },
+    {
+        "Date": "1985-05-19",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1985-06-16",
+        "Driver": "Michele Alboreto",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1985-06-23",
+        "Driver": "Keke Rosberg",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1985-07-07",
+        "Driver": "Nelson Piquet",
+        "Team": "Brabham-BMW"
+    },
+    {
+        "Date": "1985-07-21",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1985-08-04",
+        "Driver": "Michele Alboreto",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1985-08-18",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1985-09-08",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1985-09-15",
+        "Driver": "Ayrton Senna",
+        "Team": "Lotus-Renault"
+    },
+    {
+        "Date": "1985-10-06",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1985-10-19",
+        "Driver": "Nigel Mansell",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1985-11-03",
+        "Driver": "Keke Rosberg",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1985-08-25",
+        "Driver": "Niki Lauda",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1984-03-25",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1984-04-07",
+        "Driver": "Niki Lauda",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1984-04-29",
+        "Driver": "Michele Alboreto",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1984-05-06",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1984-05-20",
+        "Driver": "Niki Lauda",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1984-06-03",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1984-06-17",
+        "Driver": "Nelson Piquet",
+        "Team": "Brabham-BMW"
+    },
+    {
+        "Date": "1984-06-24",
+        "Driver": "Nelson Piquet",
+        "Team": "Brabham-BMW"
+    },
+    {
+        "Date": "1984-07-08",
+        "Driver": "Keke Rosberg",
+        "Team": "Williams-Honda"
+    },
+    {
+        "Date": "1984-07-22",
+        "Driver": "Niki Lauda",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1984-08-05",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1984-08-19",
+        "Driver": "Niki Lauda",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1984-08-26",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1984-09-09",
+        "Driver": "Niki Lauda",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1984-10-07",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1984-10-21",
+        "Driver": "Alain Prost",
+        "Team": "McLaren-TAG"
+    },
+    {
+        "Date": "1983-03-13",
+        "Driver": "Nelson Piquet",
+        "Team": "Brabham-BMW"
+    },
+    {
+        "Date": "1983-03-27",
+        "Driver": "John Watson",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1983-04-17",
+        "Driver": "Alain Prost",
+        "Team": "Renault"
+    },
+    {
+        "Date": "1983-05-01",
+        "Driver": "Patrick Tambay",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1983-05-15",
+        "Driver": "Keke Rosberg",
+        "Team": "Williams-Ford"
+    },
+    {
+        "Date": "1983-05-22",
+        "Driver": "Alain Prost",
+        "Team": "Renault"
+    },
+    {
+        "Date": "1983-06-05",
+        "Driver": "Michele Alboreto",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1983-06-12",
+        "Driver": "Rene Arnoux",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1983-07-16",
+        "Driver": "Alain Prost",
+        "Team": "Renault"
+    },
+    {
+        "Date": "1983-08-07",
+        "Driver": "Rene Arnoux",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1983-08-14",
+        "Driver": "Alain Prost",
+        "Team": "Renault"
+    },
+    {
+        "Date": "1983-08-28",
+        "Driver": "Rene Arnoux",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1983-09-11",
+        "Driver": "Nelson Piquet",
+        "Team": "Brabham-BMW"
+    },
+    {
+        "Date": "1983-09-25",
+        "Driver": "Nelson Piquet",
+        "Team": "Brabham-BMW"
+    },
+    {
+        "Date": "1983-10-15",
+        "Driver": "Riccardo Patrese",
+        "Team": "Brabham-BMW"
+    },
+    {
+        "Date": "1982-01-23",
+        "Driver": "Alain Prost",
+        "Team": "Renault"
+    },
+    {
+        "Date": "1982-03-21",
+        "Driver": "Alain Prost",
+        "Team": "Renault"
+    },
+    {
+        "Date": "1982-04-04",
+        "Driver": "Niki Lauda",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1982-04-25",
+        "Driver": "Didier Pironi",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1982-05-09",
+        "Driver": "John Watson",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1982-05-23",
+        "Driver": "Riccardo Patrese",
+        "Team": "Brabham-Ford"
+    },
+    {
+        "Date": "1982-06-06",
+        "Driver": "John Watson",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1982-06-13",
+        "Driver": "Nelson Piquet",
+        "Team": "Brabham-BMW"
+    },
+    {
+        "Date": "1982-07-03",
+        "Driver": "Didier Pironi",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1982-07-18",
+        "Driver": "Niki Lauda",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1982-07-25",
+        "Driver": "Rene Arnoux",
+        "Team": "Renault"
+    },
+    {
+        "Date": "1982-08-08",
+        "Driver": "Patrick Tambay",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1982-08-15",
+        "Driver": "Elio de Angelis",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1982-09-12",
+        "Driver": "Rene Arnoux",
+        "Team": "Renault"
+    },
+    {
+        "Date": "1982-09-25",
+        "Driver": "Michele Alboreto",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1982-08-29",
+        "Driver": "Keke Rosberg",
+        "Team": "Williams-Ford"
+    },
+    {
+        "Date": "1981-03-29",
+        "Driver": "Carlos Reutemann",
+        "Team": "Williams-Ford"
+    },
+    {
+        "Date": "1981-03-15",
+        "Driver": "Alan Jones",
+        "Team": "Williams-Ford"
+    },
+    {
+        "Date": "1981-04-12",
+        "Driver": "Nelson Piquet",
+        "Team": "Brabham-Ford"
+    },
+    {
+        "Date": "1981-05-03",
+        "Driver": "Nelson Piquet",
+        "Team": "Brabham-Ford"
+    },
+    {
+        "Date": "1981-05-17",
+        "Driver": "Carlos Reutemann",
+        "Team": "Williams-Ford"
+    },
+    {
+        "Date": "1981-05-31",
+        "Driver": "Gilles Villeneuve",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1981-06-21",
+        "Driver": "Gilles Villeneuve",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1981-07-05",
+        "Driver": "Alain Prost",
+        "Team": "Renault"
+    },
+    {
+        "Date": "1981-07-18",
+        "Driver": "John Watson",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1981-08-02",
+        "Driver": "Nelson Piquet",
+        "Team": "Brabham-Ford"
+    },
+    {
+        "Date": "1981-08-16",
+        "Driver": "Jacques Laffite",
+        "Team": "Ligier-Matra"
+    },
+    {
+        "Date": "1981-08-30",
+        "Driver": "Alain Prost",
+        "Team": "Renault"
+    },
+    {
+        "Date": "1981-09-13",
+        "Driver": "Alain Prost",
+        "Team": "Renault"
+    },
+    {
+        "Date": "1981-09-27",
+        "Driver": "Jacques Laffite",
+        "Team": "Ligier-Matra"
+    },
+    {
+        "Date": "1981-10-17",
+        "Driver": "Alan Jones",
+        "Team": "Williams-Ford"
+    },
+    {
+        "Date": "1980-01-13",
+        "Driver": "Alan Jones",
+        "Team": "Williams-Ford"
+    },
+    {
+        "Date": "1980-01-27",
+        "Driver": "Rene Arnoux",
+        "Team": "Renault"
+    },
+    {
+        "Date": "1980-03-01",
+        "Driver": "Rene Arnoux",
+        "Team": "Renault"
+    },
+    {
+        "Date": "1980-03-30",
+        "Driver": "Nelson Piquet",
+        "Team": "Brabham-Ford"
+    },
+    {
+        "Date": "1980-05-04",
+        "Driver": "Didier Pironi",
+        "Team": "Ligier-Ford"
+    },
+    {
+        "Date": "1980-05-18",
+        "Driver": "Carlos Reutemann",
+        "Team": "Williams-Ford"
+    },
+    {
+        "Date": "1980-06-29",
+        "Driver": "Alan Jones",
+        "Team": "Williams-Ford"
+    },
+    {
+        "Date": "1980-07-13",
+        "Driver": "Alan Jones",
+        "Team": "Williams-Ford"
+    },
+    {
+        "Date": "1980-08-10",
+        "Driver": "Jacques Laffite",
+        "Team": "Ligier-Ford"
+    },
+    {
+        "Date": "1980-08-17",
+        "Driver": "Jean Pierre Jabouille",
+        "Team": "Renault"
+    },
+    {
+        "Date": "1980-08-31",
+        "Driver": "Nelson Piquet",
+        "Team": "Brabham-Ford"
+    },
+    {
+        "Date": "1980-09-12",
+        "Driver": "Nelson Piquet",
+        "Team": "Brabham-Ford"
+    },
+    {
+        "Date": "1980-09-28",
+        "Driver": "Alan Jones",
+        "Team": "Williams-Ford"
+    },
+    {
+        "Date": "1980-10-05",
+        "Driver": "Alan Jones",
+        "Team": "Williams-Ford"
+    },
+    {
+        "Date": "1979-01-21",
+        "Driver": "Jacques Laffite",
+        "Team": "Ligier-Ford"
+    },
+    {
+        "Date": "1979-02-04",
+        "Driver": "Jacques Laffite",
+        "Team": "Ligier-Ford"
+    },
+    {
+        "Date": "1979-03-03",
+        "Driver": "Gilles Villeneuve",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1979-04-08",
+        "Driver": "Gilles Villeneuve",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1979-04-29",
+        "Driver": "Patrick Depailler",
+        "Team": "Ligier-Ford"
+    },
+    {
+        "Date": "1979-05-13",
+        "Driver": "Jody Scheckter",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1979-05-27",
+        "Driver": "Jody Scheckter",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1979-07-01",
+        "Driver": "Jean Pierre Jabouille",
+        "Team": "Renault"
+    },
+    {
+        "Date": "1979-07-14",
+        "Driver": "Clay Regazzoni",
+        "Team": "Williams-Ford"
+    },
+    {
+        "Date": "1979-07-29",
+        "Driver": "Alan Jones",
+        "Team": "Williams-Ford"
+    },
+    {
+        "Date": "1979-08-12",
+        "Driver": "Alan Jones",
+        "Team": "Williams-Ford"
+    },
+    {
+        "Date": "1979-08-26",
+        "Driver": "Alan Jones",
+        "Team": "Williams-Ford"
+    },
+    {
+        "Date": "1979-09-09",
+        "Driver": "Jody Scheckter",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1979-09-30",
+        "Driver": "Alan Jones",
+        "Team": "Williams-Ford"
+    },
+    {
+        "Date": "1979-10-07",
+        "Driver": "Gilles Villeneuve",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1978-01-15",
+        "Driver": "Mario Andretti",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1978-01-29",
+        "Driver": "Carlos Reutemann",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1978-03-04",
+        "Driver": "Ronnie Peterson",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1978-04-02",
+        "Driver": "Carlos Reutemann",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1978-05-07",
+        "Driver": "Patrick Depailler",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1978-05-21",
+        "Driver": "Mario Andretti",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1978-06-04",
+        "Driver": "Mario Andretti",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1978-06-17",
+        "Driver": "Niki Lauda",
+        "Team": "Brabham-Alfa Romeo"
+    },
+    {
+        "Date": "1978-07-02",
+        "Driver": "Mario Andretti",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1978-07-16",
+        "Driver": "Carlos Reutemann",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1978-07-30",
+        "Driver": "Mario Andretti",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1978-08-13",
+        "Driver": "Ronnie Peterson",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1978-08-27",
+        "Driver": "Mario Andretti",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1978-09-10",
+        "Driver": "Niki Lauda",
+        "Team": "Brabham-Alfa Romeo"
+    },
+    {
+        "Date": "1978-10-01",
+        "Driver": "Carlos Reutemann",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1978-10-08",
+        "Driver": "Gilles Villeneuve",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1977-01-09",
+        "Driver": "Jody Scheckter",
+        "Team": "Wolf-Ford"
+    },
+    {
+        "Date": "1977-01-23",
+        "Driver": "Carlos Reutemann",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1977-03-05",
+        "Driver": "Niki Lauda",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1977-04-03",
+        "Driver": "Mario Andretti",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1977-05-08",
+        "Driver": "Mario Andretti",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1977-05-22",
+        "Driver": "Jody Scheckter",
+        "Team": "Wolf-Ford"
+    },
+    {
+        "Date": "1977-06-05",
+        "Driver": "Gunnar Nilsson",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1977-06-19",
+        "Driver": "Jacques Laffite",
+        "Team": "Ligier-Matra"
+    },
+    {
+        "Date": "1977-07-03",
+        "Driver": "Mario Andretti",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1977-07-16",
+        "Driver": "James Hunt",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1977-07-31",
+        "Driver": "Niki Lauda",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1977-08-14",
+        "Driver": "Alan Jones",
+        "Team": "Shadow-Ford"
+    },
+    {
+        "Date": "1977-08-28",
+        "Driver": "Niki Lauda",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1977-09-11",
+        "Driver": "Mario Andretti",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1977-10-02",
+        "Driver": "James Hunt",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1977-10-09",
+        "Driver": "Jody Scheckter",
+        "Team": "Wolf-Ford"
+    },
+    {
+        "Date": "1977-10-23",
+        "Driver": "James Hunt",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1976-01-25",
+        "Driver": "Niki Lauda",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1976-03-06",
+        "Driver": "Niki Lauda",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1976-03-28",
+        "Driver": "Clay Regazzoni",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1976-05-02",
+        "Driver": "James Hunt",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1976-05-16",
+        "Driver": "Niki Lauda",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1976-05-30",
+        "Driver": "Niki Lauda",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1976-06-13",
+        "Driver": "Jody Scheckter",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1976-07-04",
+        "Driver": "James Hunt",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1976-07-18",
+        "Driver": "Niki Lauda",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1976-08-01",
+        "Driver": "James Hunt",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1976-08-15",
+        "Driver": "John Watson",
+        "Team": "Penske-Ford"
+    },
+    {
+        "Date": "1976-08-29",
+        "Driver": "James Hunt",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1976-09-12",
+        "Driver": "Ronnie Peterson",
+        "Team": "March-Ford"
+    },
+    {
+        "Date": "1976-10-03",
+        "Driver": "James Hunt",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1976-10-10",
+        "Driver": "James Hunt",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1976-10-24",
+        "Driver": "Mario Andretti",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1975-01-12",
+        "Driver": "Emerson Fittipaldi",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1975-01-26",
+        "Driver": "Carlos Pace",
+        "Team": "Brabham-Ford"
+    },
+    {
+        "Date": "1975-03-01",
+        "Driver": "Jody Scheckter",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1975-04-27",
+        "Driver": "Jochen Mass",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1975-05-11",
+        "Driver": "Niki Lauda",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1975-05-25",
+        "Driver": "Niki Lauda",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1975-06-08",
+        "Driver": "Niki Lauda",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1975-06-22",
+        "Driver": "James Hunt",
+        "Team": "Hesketh-Ford"
+    },
+    {
+        "Date": "1975-07-06",
+        "Driver": "Niki Lauda",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1975-07-19",
+        "Driver": "Emerson Fittipaldi",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1975-08-03",
+        "Driver": "Carlos Reutemann",
+        "Team": "Brabham-Ford"
+    },
+    {
+        "Date": "1975-08-17",
+        "Driver": "Vittorio Brambilla",
+        "Team": "March-Ford"
+    },
+    {
+        "Date": "1975-09-07",
+        "Driver": "Clay Regazzoni",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1975-10-05",
+        "Driver": "Niki Lauda",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1974-01-13",
+        "Driver": "Denny Hulme",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1974-01-27",
+        "Driver": "Emerson Fittipaldi",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1974-03-30",
+        "Driver": "Carlos Reutemann",
+        "Team": "Brabham-Ford"
+    },
+    {
+        "Date": "1974-04-28",
+        "Driver": "Niki Lauda",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1974-05-12",
+        "Driver": "Emerson Fittipaldi",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1974-05-26",
+        "Driver": "Ronnie Peterson",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1974-06-09",
+        "Driver": "Jody Scheckter",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1974-06-23",
+        "Driver": "Niki Lauda",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1974-07-07",
+        "Driver": "Ronnie Peterson",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1974-07-20",
+        "Driver": "Jody Scheckter",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1974-08-04",
+        "Driver": "Clay Regazzoni",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1974-08-18",
+        "Driver": "Carlos Reutemann",
+        "Team": "Brabham-Ford"
+    },
+    {
+        "Date": "1974-09-06",
+        "Driver": "Ronnie Peterson",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1974-09-22",
+        "Driver": "Emerson Fittipaldi",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1974-10-06",
+        "Driver": "Carlos Reutemann",
+        "Team": "Brabham-Ford"
+    },
+    {
+        "Date": "1973-01-28",
+        "Driver": "Emerson Fittipaldi",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1973-02-11",
+        "Driver": "Emerson Fittipaldi",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1973-03-03",
+        "Driver": "Jackie Stewart",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1973-04-29",
+        "Driver": "Emerson Fittipaldi",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1973-05-29",
+        "Driver": "Jackie Stewart",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1973-06-03",
+        "Driver": "Jackie Stewart",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1973-06-17",
+        "Driver": "Denny Hulme",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1973-07-01",
+        "Driver": "Ronnie Peterson",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1973-07-14",
+        "Driver": "Peter Revson",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1973-07-29",
+        "Driver": "Jackie Stewart",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1973-08-05",
+        "Driver": "Jackie Stewart",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1973-08-19",
+        "Driver": "Ronnie Peterson",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1973-09-09",
+        "Driver": "Ronnie Peterson",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1973-09-23",
+        "Driver": "Peter Revson",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1973-10-07",
+        "Driver": "Ronnie Peterson",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1972-01-23",
+        "Driver": "Jackie Stewart",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1972-03-04",
+        "Driver": "Denny Hulme",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1972-05-01",
+        "Driver": "Emerson Fittipaldi",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1972-05-14",
+        "Driver": "Jean Pierre Beltoise",
+        "Team": "BRM"
+    },
+    {
+        "Date": "1972-06-04",
+        "Driver": "Emerson Fittipaldi",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1972-07-15",
+        "Driver": "Emerson Fittipaldi",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1972-07-30",
+        "Driver": "Jacky Ickx",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1972-08-13",
+        "Driver": "Emerson Fittipaldi",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1972-09-10",
+        "Driver": "Emerson Fittipaldi",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1972-09-24",
+        "Driver": "Jackie Stewart",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1972-10-08",
+        "Driver": "Jackie Stewart",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1972-07-02",
+        "Driver": "Jackie Stewart",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1971-03-06",
+        "Driver": "Mario Andretti",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1971-04-18",
+        "Driver": "Jackie Stewart",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1971-05-23",
+        "Driver": "Jackie Stewart",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1971-06-20",
+        "Driver": "Jacky Ickx",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1971-07-04",
+        "Driver": "Jackie Stewart",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1971-07-17",
+        "Driver": "Jackie Stewart",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1971-08-01",
+        "Driver": "Jackie Stewart",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1971-08-15",
+        "Driver": "Jo Siffert",
+        "Team": "BRM"
+    },
+    {
+        "Date": "1971-09-05",
+        "Driver": "Peter Gethin",
+        "Team": "BRM"
+    },
+    {
+        "Date": "1971-10-03",
+        "Driver": "Francois Cevert",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1971-09-19",
+        "Driver": "Jackie Stewart",
+        "Team": "Tyrrell-Ford"
+    },
+    {
+        "Date": "1970-03-07",
+        "Driver": "Jack Brabham",
+        "Team": "Brabham-Ford"
+    },
+    {
+        "Date": "1970-04-19",
+        "Driver": "Jackie Stewart",
+        "Team": "March-Ford"
+    },
+    {
+        "Date": "1970-05-10",
+        "Driver": "Jochen Rindt",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1970-06-07",
+        "Driver": "Pedro Rodriguez",
+        "Team": "BRM"
+    },
+    {
+        "Date": "1970-06-21",
+        "Driver": "Jochen Rindt",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1970-07-18",
+        "Driver": "Jochen Rindt",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1970-08-02",
+        "Driver": "Jochen Rindt",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1970-08-16",
+        "Driver": "Jacky Ickx",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1970-09-06",
+        "Driver": "Clay Regazzoni",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1970-10-04",
+        "Driver": "Emerson Fittipaldi",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1970-10-25",
+        "Driver": "Jacky Ickx",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1970-09-20",
+        "Driver": "Jacky Ickx",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1970-07-05",
+        "Driver": "Jochen Rindt",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1969-03-01",
+        "Driver": "Jackie Stewart",
+        "Team": "Matra-Ford"
+    },
+    {
+        "Date": "1969-05-04",
+        "Driver": "Jackie Stewart",
+        "Team": "Matra-Ford"
+    },
+    {
+        "Date": "1969-05-18",
+        "Driver": "Graham Hill",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1969-06-21",
+        "Driver": "Jackie Stewart",
+        "Team": "Matra-Ford"
+    },
+    {
+        "Date": "1969-07-06",
+        "Driver": "Jackie Stewart",
+        "Team": "Matra-Ford"
+    },
+    {
+        "Date": "1969-07-19",
+        "Driver": "Jackie Stewart",
+        "Team": "Matra-Ford"
+    },
+    {
+        "Date": "1969-08-03",
+        "Driver": "Jacky Ickx",
+        "Team": "Brabham-Ford"
+    },
+    {
+        "Date": "1969-09-07",
+        "Driver": "Jackie Stewart",
+        "Team": "Matra-Ford"
+    },
+    {
+        "Date": "1969-09-20",
+        "Driver": "Jacky Ickx",
+        "Team": "Brabham-Ford"
+    },
+    {
+        "Date": "1969-10-05",
+        "Driver": "Jochen Rindt",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1969-10-19",
+        "Driver": "Denny Hulme",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1968-01-01",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1968-05-12",
+        "Driver": "Graham Hill",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1968-05-26",
+        "Driver": "Graham Hill",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1968-06-09",
+        "Driver": "Bruce McLaren",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1968-06-23",
+        "Driver": "Jackie Stewart",
+        "Team": "Matra-Ford"
+    },
+    {
+        "Date": "1968-07-20",
+        "Driver": "Jo Siffert",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1968-08-04",
+        "Driver": "Jackie Stewart",
+        "Team": "Matra-Ford"
+    },
+    {
+        "Date": "1968-09-08",
+        "Driver": "Denny Hulme",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1968-09-22",
+        "Driver": "Denny Hulme",
+        "Team": "McLaren-Ford"
+    },
+    {
+        "Date": "1968-10-06",
+        "Driver": "Jackie Stewart",
+        "Team": "Matra-Ford"
+    },
+    {
+        "Date": "1968-11-03",
+        "Driver": "Graham Hill",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1968-07-07",
+        "Driver": "Jacky Ickx",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1967-01-02",
+        "Driver": "Pedro Rodriguez",
+        "Team": "Cooper-Maserati"
+    },
+    {
+        "Date": "1967-05-07",
+        "Driver": "Denny Hulme",
+        "Team": "Brabham-Repco"
+    },
+    {
+        "Date": "1967-06-04",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1967-06-18",
+        "Driver": "Dan Gurney",
+        "Team": "Eagle-Weslake"
+    },
+    {
+        "Date": "1967-07-15",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1967-08-06",
+        "Driver": "Denny Hulme",
+        "Team": "Brabham-Repco"
+    },
+    {
+        "Date": "1967-08-27",
+        "Driver": "Jack Brabham",
+        "Team": "Brabham-Repco"
+    },
+    {
+        "Date": "1967-09-10",
+        "Driver": "John Surtees",
+        "Team": "Honda"
+    },
+    {
+        "Date": "1967-10-01",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1967-10-22",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Ford"
+    },
+    {
+        "Date": "1967-07-02",
+        "Driver": "Jack Brabham",
+        "Team": "Brabham-Repco"
+    },
+    {
+        "Date": "1966-05-22",
+        "Driver": "Jackie Stewart",
+        "Team": "BRM"
+    },
+    {
+        "Date": "1966-06-12",
+        "Driver": "John Surtees",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1966-07-03",
+        "Driver": "Jack Brabham",
+        "Team": "Brabham-Repco"
+    },
+    {
+        "Date": "1966-07-16",
+        "Driver": "Jack Brabham",
+        "Team": "Brabham-Repco"
+    },
+    {
+        "Date": "1966-07-24",
+        "Driver": "Jack Brabham",
+        "Team": "Brabham-Repco"
+    },
+    {
+        "Date": "1966-08-07",
+        "Driver": "Jack Brabham",
+        "Team": "Brabham-Repco"
+    },
+    {
+        "Date": "1966-09-04",
+        "Driver": "Ludovico Scarfiotti",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1966-10-02",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-BRM"
+    },
+    {
+        "Date": "1966-10-23",
+        "Driver": "John Surtees",
+        "Team": "Cooper-Maserati"
+    },
+    {
+        "Date": "1965-01-01",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1965-05-30",
+        "Driver": "Graham Hill",
+        "Team": "BRM"
+    },
+    {
+        "Date": "1965-06-13",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1965-06-27",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1965-07-10",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1965-07-18",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1965-08-01",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1965-09-12",
+        "Driver": "Jackie Stewart",
+        "Team": "BRM"
+    },
+    {
+        "Date": "1965-10-03",
+        "Driver": "Graham Hill",
+        "Team": "BRM"
+    },
+    {
+        "Date": "1965-10-24",
+        "Driver": "Richie Ginther",
+        "Team": "Honda"
+    },
+    {
+        "Date": "1964-05-24",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1964-05-10",
+        "Driver": "Graham Hill",
+        "Team": "BRM"
+    },
+    {
+        "Date": "1964-06-14",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1964-06-28",
+        "Driver": "Dan Gurney",
+        "Team": "Brabham-Climax"
+    },
+    {
+        "Date": "1964-07-11",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1964-08-02",
+        "Driver": "John Surtees",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1964-09-06",
+        "Driver": "John Surtees",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1964-10-04",
+        "Driver": "Graham Hill",
+        "Team": "BRM"
+    },
+    {
+        "Date": "1964-10-25",
+        "Driver": "Dan Gurney",
+        "Team": "Brabham-Climax"
+    },
+    {
+        "Date": "1964-08-23",
+        "Driver": "Lorenzo Bandini",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1963-05-26",
+        "Driver": "Graham Hill",
+        "Team": "BRM"
+    },
+    {
+        "Date": "1963-06-09",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1963-06-23",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1963-06-30",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1963-07-20",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1963-08-04",
+        "Driver": "John Surtees",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1963-09-08",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1963-10-06",
+        "Driver": "Graham Hill",
+        "Team": "BRM"
+    },
+    {
+        "Date": "1963-10-27",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1963-12-28",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1962-05-20",
+        "Driver": "Graham Hill",
+        "Team": "BRM"
+    },
+    {
+        "Date": "1962-06-03",
+        "Driver": "Bruce McLaren",
+        "Team": "Cooper-Climax"
+    },
+    {
+        "Date": "1962-06-17",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1962-07-08",
+        "Driver": "Dan Gurney",
+        "Team": "Porsche"
+    },
+    {
+        "Date": "1962-08-05",
+        "Driver": "Graham Hill",
+        "Team": "BRM"
+    },
+    {
+        "Date": "1962-09-16",
+        "Driver": "Graham Hill",
+        "Team": "BRM"
+    },
+    {
+        "Date": "1962-10-07",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1962-12-29",
+        "Driver": "Graham Hill",
+        "Team": "BRM"
+    },
+    {
+        "Date": "1962-07-21",
+        "Driver": "Jim Clark",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1961-05-14",
+        "Driver": "Stirling Moss",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1961-05-22",
+        "Driver": "Wolfgang von Trips",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1961-06-18",
+        "Driver": "Phil Hill",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1961-07-02",
+        "Driver": "Giancarlo Baghetti",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1961-07-15",
+        "Driver": "Wolfgang von Trips",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1961-08-06",
+        "Driver": "Stirling Moss",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1961-09-10",
+        "Driver": "Phil Hill",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1961-10-08",
+        "Driver": "Innes Ireland",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1960-02-07",
+        "Driver": "Bruce McLaren",
+        "Team": "Cooper-Climax"
+    },
+    {
+        "Date": "1960-05-29",
+        "Driver": "Stirling Moss",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1960-05-30",
+        "Driver": "Jim Rathmann",
+        "Team": "Watson-Offenhauser"
+    },
+    {
+        "Date": "1960-06-06",
+        "Driver": "Jack Brabham",
+        "Team": "Cooper-Climax"
+    },
+    {
+        "Date": "1960-06-19",
+        "Driver": "Jack Brabham",
+        "Team": "Cooper-Climax"
+    },
+    {
+        "Date": "1960-07-03",
+        "Driver": "Jack Brabham",
+        "Team": "Cooper-Climax"
+    },
+    {
+        "Date": "1960-07-16",
+        "Driver": "Jack Brabham",
+        "Team": "Cooper-Climax"
+    },
+    {
+        "Date": "1960-09-04",
+        "Driver": "Phil Hill",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1960-11-20",
+        "Driver": "Stirling Moss",
+        "Team": "Lotus-Climax"
+    },
+    {
+        "Date": "1960-08-14",
+        "Driver": "Jack Brabham",
+        "Team": "Cooper-Climax"
+    },
+    {
+        "Date": "1959-05-10",
+        "Driver": "Jack Brabham",
+        "Team": "Cooper-Climax"
+    },
+    {
+        "Date": "1959-05-30",
+        "Driver": "Rodger Ward",
+        "Team": "Watson-Offenhauser"
+    },
+    {
+        "Date": "1959-05-31",
+        "Driver": "Jo Bonnier",
+        "Team": "BRM"
+    },
+    {
+        "Date": "1959-07-05",
+        "Driver": "Tony Brooks",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1959-07-18",
+        "Driver": "Jack Brabham",
+        "Team": "Cooper-Climax"
+    },
+    {
+        "Date": "1959-09-13",
+        "Driver": "Stirling Moss",
+        "Team": "Cooper-Climax"
+    },
+    {
+        "Date": "1959-12-12",
+        "Driver": "Bruce McLaren",
+        "Team": "Cooper-Climax"
+    },
+    {
+        "Date": "1959-08-23",
+        "Driver": "Stirling Moss",
+        "Team": "Cooper-Climax"
+    },
+    {
+        "Date": "1959-08-02",
+        "Driver": "Tony Brooks",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1958-01-19",
+        "Driver": "Stirling Moss",
+        "Team": "Cooper-Climax"
+    },
+    {
+        "Date": "1958-05-18",
+        "Driver": "Maurice Trintignant",
+        "Team": "Cooper-Climax"
+    },
+    {
+        "Date": "1958-05-26",
+        "Driver": "Stirling Moss",
+        "Team": "Vanwall"
+    },
+    {
+        "Date": "1958-05-30",
+        "Driver": "Jimmy Bryan",
+        "Team": "Epperly- Offenhauser"
+    },
+    {
+        "Date": "1958-06-15",
+        "Driver": "Tony Brooks",
+        "Team": "Vanwall"
+    },
+    {
+        "Date": "1958-07-06",
+        "Driver": "Mike Hawthorn",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1958-07-19",
+        "Driver": "Peter Collins",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1958-08-03",
+        "Driver": "Tony Brooks",
+        "Team": "Vanwall"
+    },
+    {
+        "Date": "1958-08-24",
+        "Driver": "Stirling Moss",
+        "Team": "Vanwall"
+    },
+    {
+        "Date": "1958-09-07",
+        "Driver": "Tony Brooks",
+        "Team": "Vanwall"
+    },
+    {
+        "Date": "1958-10-19",
+        "Driver": "Stirling Moss",
+        "Team": "Vanwall"
+    },
+    {
+        "Date": "1957-01-13",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Maserati"
+    },
+    {
+        "Date": "1957-05-19",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Maserati"
+    },
+    {
+        "Date": "1957-05-30",
+        "Driver": "Sam Hanks",
+        "Team": "Epperly- Offenhauser"
+    },
+    {
+        "Date": "1957-07-07",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Maserati"
+    },
+    {
+        "Date": "1957-07-20",
+        "Driver": "Stirling Moss",
+        "Team": "Vanwall"
+    },
+    {
+        "Date": "1957-08-04",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Maserati"
+    },
+    {
+        "Date": "1957-09-08",
+        "Driver": "Stirling Moss",
+        "Team": "Vanwall"
+    },
+    {
+        "Date": "1957-08-18",
+        "Driver": "Stirling Moss",
+        "Team": "Vanwall"
+    },
+    {
+        "Date": "1956-01-22",
+        "Driver": "Luigi Musso",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1956-05-13",
+        "Driver": "Stirling Moss",
+        "Team": "Maserati"
+    },
+    {
+        "Date": "1956-05-30",
+        "Driver": "Pat Flaherty",
+        "Team": "Watson-Offenhauser"
+    },
+    {
+        "Date": "1956-06-03",
+        "Driver": "Peter Collins",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1956-07-01",
+        "Driver": "Peter Collins",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1956-07-14",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1956-08-05",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1956-09-02",
+        "Driver": "Stirling Moss",
+        "Team": "Maserati"
+    },
+    {
+        "Date": "1955-01-16",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "1955-05-22",
+        "Driver": "Maurice Trintignant",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1955-05-30",
+        "Driver": "Bob Sweikert",
+        "Team": "Kurtis Kraft-Offenhauser"
+    },
+    {
+        "Date": "1955-06-05",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "1955-06-19",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "1955-07-16",
+        "Driver": "Stirling Moss",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "1955-09-11",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "1954-01-17",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Maserati"
+    },
+    {
+        "Date": "1954-05-31",
+        "Driver": "Bill Vukovich",
+        "Team": "Kurtis Kraft-Offenhauser"
+    },
+    {
+        "Date": "1954-06-20",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Maserati"
+    },
+    {
+        "Date": "1954-07-04",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "1954-07-17",
+        "Driver": "Jose Froilan Gonzalez",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1954-08-01",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "1954-08-22",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "1954-09-05",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Mercedes"
+    },
+    {
+        "Date": "1954-10-24",
+        "Driver": "Mike Hawthorn",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1953-05-30",
+        "Driver": "Bill Vukovich",
+        "Team": "Kurtis Kraft-Offenhauser"
+    },
+    {
+        "Date": "1953-01-18",
+        "Driver": "Alberto Ascari",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1953-06-07",
+        "Driver": "Alberto Ascari",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1953-06-21",
+        "Driver": "Alberto Ascari",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1953-07-05",
+        "Driver": "Mike Hawthorn",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1953-07-18",
+        "Driver": "Alberto Ascari",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1953-08-02",
+        "Driver": "Nino Farina",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1953-08-23",
+        "Driver": "Alberto Ascari",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1953-09-13",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Maserati"
+    },
+    {
+        "Date": "1952-05-18",
+        "Driver": "Piero Taruffi",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1952-05-30",
+        "Driver": "Troy Ruttman",
+        "Team": "Kuzma-Offenhauser"
+    },
+    {
+        "Date": "1952-06-22",
+        "Driver": "Alberto Ascari",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1952-07-06",
+        "Driver": "Alberto Ascari",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1952-07-19",
+        "Driver": "Alberto Ascari",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1952-08-03",
+        "Driver": "Alberto Ascari",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1952-08-17",
+        "Driver": "Alberto Ascari",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1952-09-07",
+        "Driver": "Alberto Ascari",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1951-05-27",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Alfa Romeo"
+    },
+    {
+        "Date": "1951-05-30",
+        "Driver": "Lee Wallard",
+        "Team": "Kurtis Kraft-Offenhauser"
+    },
+    {
+        "Date": "1951-06-17",
+        "Driver": "Nino Farina",
+        "Team": "Alfa Romeo"
+    },
+    {
+        "Date": "1951-07-01",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Alfa Romeo"
+    },
+    {
+        "Date": "1951-07-14",
+        "Driver": "Jose Froilan Gonzalez",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1951-07-29",
+        "Driver": "Alberto Ascari",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1951-09-16",
+        "Driver": "Alberto Ascari",
+        "Team": "Ferrari"
+    },
+    {
+        "Date": "1951-10-28",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Alfa Romeo"
+    },
+    {
+        "Date": "1950-05-13",
+        "Driver": "Nino Farina",
+        "Team": "Alfa Romeo"
+    },
+    {
+        "Date": "1950-05-30",
+        "Driver": "Johnnie Parsons",
+        "Team": "Kurtis Kraft-Offenhauser"
+    },
+    {
+        "Date": "1950-06-04",
+        "Driver": "Nino Farina",
+        "Team": "Alfa Romeo"
+    },
+    {
+        "Date": "1950-06-18",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Alfa Romeo"
+    },
+    {
+        "Date": "1950-07-02",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Alfa Romeo"
+    },
+    {
+        "Date": "1950-09-03",
+        "Driver": "Nino Farina",
+        "Team": "Alfa Romeo"
+    },
+    {
+        "Date": "1950-05-21",
+        "Driver": "Juan Manuel Fangio",
+        "Team": "Alfa Romeo"
+    }
+]
